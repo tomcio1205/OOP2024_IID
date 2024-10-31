@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\trajzer\\source\\repos\\OOP\\",
+  "WorkspaceRootPath": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\source\\repos\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\source\\repos\\oop\\oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\source\\repos\\oop\\oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -22,47 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildMaterialEnum.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
+              "RelativeDocumentMoniker": "OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
+              "RelativeToolTip": "OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:13:43.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "CreateConstructionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "RelativeDocumentMoniker": "OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "RelativeToolTip": "OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:52:04.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Construction.cs",
-              "DocumentMoniker": "C:\\Users\\trajzer\\source\\repos\\OOP\\OOP\\Constructions\\Construction.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Construction.cs",
               "RelativeDocumentMoniker": "OOP\\Constructions\\Construction.cs",
-              "ToolTip": "C:\\Users\\trajzer\\source\\repos\\OOP\\OOP\\Constructions\\Construction.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Construction.cs",
               "RelativeToolTip": "OOP\\Constructions\\Construction.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAIA2wDcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:57:15.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OOP",
-              "DocumentMoniker": "C:\\Users\\trajzer\\source\\repos\\OOP\\OOP\\OOP.csproj",
+              "DocumentIndex": 4,
+              "Title": "OOP.csproj",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\OOP.csproj",
               "RelativeDocumentMoniker": "OOP\\OOP.csproj",
-              "ToolTip": "C:\\Users\\trajzer\\source\\repos\\OOP\\OOP\\OOP.csproj",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\OOP.csproj",
               "RelativeToolTip": "OOP\\OOP.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-17T08:56:01.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trajzer\\source\\repos\\OOP\\OOP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
-              "ToolTip": "C:\\Users\\trajzer\\source\\repos\\OOP\\OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Program.cs",
               "RelativeToolTip": "OOP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:33:56.368Z",
               "EditorCaption": ""
