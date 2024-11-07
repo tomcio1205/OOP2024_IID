@@ -2,13 +2,16 @@
 
 using OOP.Constructions;
 using OOP.Constructions.DTO;
+using OOP.Constructions.Models;
+using OOP.IndustrialHalls;
+using OOP.ResidentalBuildings;
 
 Console.WriteLine("Hello, World!");
 var construction1 = new Construction();
-var construction2 = new Construction(23.0f, 45.0f, 4, 4, "Material");
+var construction2 = new Construction(23.0f, 45.0f, 4, 4, BuildMaterialEnum.Wood);
 var construction3 = new Construction(
     new CreateConstructionDTO() {
-        BuildMaterial = "Material",
+        BuildMaterial = BuildMaterialEnum.Brik,
         Width = 100,
         Height = 100,
         Entrances = 2
@@ -26,3 +29,8 @@ Console.WriteLine(construction1.HumanCapacity);
 Console.WriteLine(construction1.Height);
 Console.WriteLine(construction1.Entrances);
 
+Console.WriteLine(construction1.getSquareCost());
+var residental = new ResidentalBuilding(3);
+var hall = new IndustrialHall();
+Console.WriteLine(residental.Height);
+Console.WriteLine(hall.Entrances);

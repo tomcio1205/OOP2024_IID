@@ -1,4 +1,5 @@
 ﻿using OOP.Constructions.DTO;
+using OOP.Constructions.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,7 @@ namespace OOP.Constructions
             Width = 43;
             Entrances = 3;
             HumanCapacity = 2;
-            BuildMaterial = "Material";
+            BuildMaterial = BuildMaterialEnum.Concrete;
         }
 
         public Construction(CreateConstructionDTO construction)
@@ -27,7 +28,7 @@ namespace OOP.Constructions
             BuildMaterial = construction.BuildMaterial;
         }
 
-        public Construction(float height, float width, int entrances, int humanCapacity, string buildMaterial)
+        public Construction(float height, float width, int entrances, int humanCapacity, BuildMaterialEnum buildMaterial)
         {
             Height = height; 
             Width = width; 
@@ -40,22 +41,35 @@ namespace OOP.Constructions
         public float Width { get; set; }
         public int Entrances { get; set; }
         public int HumanCapacity { get; set; }
-        private string _buildMaterial { get; set; }
+        private BuildMaterialEnum _buildMaterial { get; set; }
 
 
-        public string BuildMaterial { 
+        public BuildMaterialEnum BuildMaterial { 
             get 
             { 
                 return _buildMaterial;
             } 
             set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentNullException("Value can not be null");
-                }
+                //if (value == null)
+                //{
+                //    throw new ArgumentNullException("Value can not be null");
+                //}
                 _buildMaterial = value;
             } 
+        }
+
+        public float getSquareCost()
+        {
+            if (BuildMaterial == BuildMaterialEnum.Concrete)
+            {
+                return 0.87f * Height * Width * 0.9f;
+            }
+            else if (BuildMaterial == BuildMaterialEnum.Brik)
+            {
+                return 0.8f * Height * Width * 0.9f;
+            }
+            return 0.78f * Height * Width * 0.9f;
         }
 
     }
