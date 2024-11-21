@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\buildingwrappers\\buildingwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\buildingwrappers\\buildingwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\interfaces\\iconstructioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\interfaces\\iconstructioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\interfaces\\isquarecost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\interfaces\\isquarecost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\commercialbulidings\\commercialbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\commercialbulidings\\commercialbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\abstractcommercialbuildings\\abstractcommercialbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\abstractcommercialbuildings\\abstractcommercialbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\residentalbuildings\\residentalbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\residentalbuildings\\residentalbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|solutionrelative:oop\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F997245D-CE79-488C-99AA-C65C1DFCC539}|OOP\\OOP.csproj|c:\\users\\trajzer\\documents\\oop2024_iid\\oop\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +58,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IndustrialHall.cs",
-              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\IndustrialHalls\\IndustrialHall.cs",
-              "RelativeDocumentMoniker": "OOP\\IndustrialHalls\\IndustrialHall.cs",
-              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\IndustrialHalls\\IndustrialHall.cs",
-              "RelativeToolTip": "OOP\\IndustrialHalls\\IndustrialHall.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAlwAwAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IConstructionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Interfaces\\IConstructionInfo.cs",
+              "RelativeDocumentMoniker": "OOP\\Interfaces\\IConstructionInfo.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Interfaces\\IConstructionInfo.cs",
+              "RelativeToolTip": "OOP\\Interfaces\\IConstructionInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:02:38.16Z",
+              "WhenOpened": "2024-11-21T10:13:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommercialBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\CommercialBulidings\\CommercialBuilding.cs",
+              "RelativeDocumentMoniker": "OOP\\CommercialBulidings\\CommercialBuilding.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\CommercialBulidings\\CommercialBuilding.cs",
+              "RelativeToolTip": "OOP\\CommercialBulidings\\CommercialBuilding.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:46:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractCommercialBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\AbstractCommercialBuildings\\AbstractCommercialBuilding.cs",
+              "RelativeDocumentMoniker": "OOP\\AbstractCommercialBuildings\\AbstractCommercialBuilding.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\AbstractCommercialBuildings\\AbstractCommercialBuilding.cs",
+              "RelativeToolTip": "OOP\\AbstractCommercialBuildings\\AbstractCommercialBuilding.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:44:24.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ISquareCost.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Interfaces\\ISquareCost.cs",
+              "RelativeDocumentMoniker": "OOP\\Interfaces\\ISquareCost.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Interfaces\\ISquareCost.cs",
+              "RelativeToolTip": "OOP\\Interfaces\\ISquareCost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:32:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\BuildingWrappers\\BuildingWrapper.cs",
+              "RelativeDocumentMoniker": "OOP\\BuildingWrappers\\BuildingWrapper.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\BuildingWrappers\\BuildingWrapper.cs",
+              "RelativeToolTip": "OOP\\BuildingWrappers\\BuildingWrapper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:06:43.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ResidentalBuilding.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\ResidentalBuildings\\ResidentalBuilding.cs",
               "RelativeDocumentMoniker": "OOP\\ResidentalBuildings\\ResidentalBuilding.cs",
               "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\ResidentalBuildings\\ResidentalBuilding.cs",
               "RelativeToolTip": "OOP\\ResidentalBuildings\\ResidentalBuilding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T10:02:22.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BuildMaterialEnum.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
               "RelativeDocumentMoniker": "OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
@@ -76,12 +148,11 @@
               "RelativeToolTip": "OOP\\Constructions\\Models\\BuildMaterialEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:13:43.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T10:13:43.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CreateConstructionDTO.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
               "RelativeDocumentMoniker": "OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
@@ -89,25 +160,53 @@
               "RelativeToolTip": "OOP\\Constructions\\DTO\\CreateConstructionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:52:04.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T09:52:04.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Construction.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Construction.cs",
               "RelativeDocumentMoniker": "OOP\\Constructions\\Construction.cs",
               "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Constructions\\Construction.cs",
               "RelativeToolTip": "OOP\\Constructions\\Construction.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAlwB4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:57:15.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:33:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndustrialHall.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeDocumentMoniker": "OOP\\IndustrialHalls\\IndustrialHall.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeToolTip": "OOP\\IndustrialHalls\\IndustrialHall.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vw4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:02:38.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "OOP.csproj",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\OOP.csproj",
               "RelativeDocumentMoniker": "OOP\\OOP.csproj",
@@ -116,19 +215,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-17T08:56:01.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Program.cs",
-              "RelativeDocumentMoniker": "OOP\\Program.cs",
-              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP2024_IID\\OOP\\Program.cs",
-              "RelativeToolTip": "OOP\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:33:56.368Z",
-              "EditorCaption": ""
             }
           ]
         }
